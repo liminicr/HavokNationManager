@@ -1,6 +1,7 @@
 ## Projects Information
 #### Name 
-International Baccalaureate Computer Science HL Internal Assessment
+Havok Nation Internet Cafe Manager
+
 #### Main Features 
 
 Customer registration/management  
