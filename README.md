@@ -25,5 +25,5 @@ MS Access
 <img src="https://user-images.githubusercontent.com/65699607/82528816-8fd78800-9b74-11ea-8324-8373026ce8e3.JPG" width="70%"></img>
 <img src="https://user-images.githubusercontent.com/65699607/82528820-91a14b80-9b74-11ea-844b-a2151ae84d4c.jpg" width="70%"></img>
 
-## Development document 
+## Detailed information about the product 
 https://drive.google.com/file/d/0B8gdBd62d4iaR21hR01TZ3lOVG8/view?usp=sharing
